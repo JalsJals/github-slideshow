@@ -2,7 +2,7 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your testt
+Your te
 Use the left arrow to go back!
 
 commit
